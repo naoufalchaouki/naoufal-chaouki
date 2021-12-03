@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lfJg+v9RRQG0f78i685ZjDgBlpHQoL0IHCropYnJnz6iGnlTZz03MWUfCyfqlgrDVTMWSy1C9kGFTGE2U3U8Gg==",
+  "success": true,
+  "projectFilePath": "/Users/naoufalchaouki/Projects/TP1/TP1/TP1.csproj",
+  "expectedPackageFiles": [
+    "/Users/naoufalchaouki/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.21/microsoft.netcore.app.host.osx-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
